@@ -1,0 +1,8 @@
+{
+dependencies
+ {
+git remote add origin https://github.com/learner-web/l.git
+git branch -M main
+git push -u origin main
+ {
+{
